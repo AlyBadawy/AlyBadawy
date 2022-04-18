@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Photo of Aly Badawy](https://github.com/AlyBadawy/AlyBadawy/blob/main/AlyBadawy.png?raw=true)
+
+
 <!--
 **AlyBadawy/AlyBadawy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
