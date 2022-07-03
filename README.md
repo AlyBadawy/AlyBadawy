@@ -6,7 +6,7 @@ Hi. My name is Aly Badawy (He/Him). I am a senior software engineer from Wayne, 
 
 I was born in Cairo, Egypt. Since I was young, I have been working with computers. I wrote my first program when I was twelve years old, in BASIC. During  High school, I wrote my first GUI application in Visual Basic.
 
-<img align="right" src="https://github.com/AlyBadawy/AlyBadawy/blob/main/aly_badawy.jpeg?raw=true">
+
 
 While attending college, I started a forums website to disucss software development with other developers, it was there where I was exposed to many technologies like ASP.net, php, and databases, I, then, started creating web applications besides desktop-applications.
 
