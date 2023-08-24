@@ -2,8 +2,6 @@
 
 ### 👋 Hi There
 
-Greetings!
-
 I'm Aly Badawy (He/Him), a seasoned senior software engineer hailing from Wayne, NJ. My true passion lies in crafting dynamic web services for a multitude of purposes.
 
 My journey began in Cairo, Egypt, where my affinity for computers sparked at an early age. I penned my inaugural program in BASIC at the tender age of twelve. As high school beckoned, I ventured into creating my first graphical user interface application using Visual Basic.
