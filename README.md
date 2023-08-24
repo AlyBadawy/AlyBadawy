@@ -2,21 +2,21 @@
 
 ### 👋 Hi There
 
-Hi. My name is Aly Badawy (He/Him). I am a senior software engineer from Wayne, NJ; and I love building web services for different purposes.
+Greetings!
 
-I was born in Cairo, Egypt. Since I was young, I have been working with computers. I wrote my first program when I was twelve years old, in BASIC. During  High school, I wrote my first GUI application in Visual Basic.
+I'm Aly Badawy (He/Him), a seasoned senior software engineer hailing from Wayne, NJ. My true passion lies in crafting dynamic web services for a multitude of purposes.
 
+My journey began in Cairo, Egypt, where my affinity for computers sparked at an early age. I penned my inaugural program in BASIC at the tender age of twelve. As high school beckoned, I ventured into creating my first graphical user interface application using Visual Basic.
 
+My college days witnessed the birth of a software development forum, an arena for vibrant discussions among fellow developers. This venture introduced me to an array of technologies like ASP.net, PHP, and databases, propelling me to forge ahead with both web and desktop application creation.
 
-While attending college, I started a forums website to disucss software development with other developers, it was there where I was exposed to many technologies like ASP.net, php, and databases, I, then, started creating web applications besides desktop-applications.
+Zooming ahead to 2007, I embarked on a transcontinental journey to the United States. There, I dived headlong into mastering over ten distinct programming languages and frameworks, including Ruby, C++, C#, JAVA, Rails, Swift, Perl, VB.net, SQL, and Go. My explorations also encompassed the intricate realm of Linux operating systems.
 
-Fast-forward to 2007, when I migrated to the united states, I took a plunge and learned over ten different programming languages and frameworks (Ruby, C++, C#, JAVA, Rails, Swift, Perl, VB.net, SQL, Go). I also digged into Linux operating systems.
+Between 2014 and 2018, I proudly co-founded Fourteen Inch LLC, a nimble software development firm. We designed frameworks and solutions tailored to a diverse clientele. Throughout this phase, I orchestrated the entire development lifecycle, spanning technical analysis, backend coding, test scripting, and CI/CD implementation.
 
-From 2014 to 2018, I was the co-founder of a small software development company (Fourteen Inch LLC) that built frameworks and solutions for clients with a wide-range of requirements. I was then responsible for most of the lifecycle for the development, from technical analysis and design, coding the back-end, writing tests, and CI/CD scripts.
+In the present day, I'm a dedicated member of Steampunk, Inc., a preeminent software development enterprise specializing in crafting solutions for the US government.
 
-I Currently work for Steampunk, Inc. - a software development company that specializes in building software for the US goverment.
-
-Beside my passion for software engineering, I also enjoy building low-voltage electronic ciruits, code for AVR microcontrollers, and 3D modeling.
+Beyond my ardor for software engineering, I delight in fashioning intricate low-voltage electronic circuits, coding for AVR microcontrollers, and even delving into the realm of 3D modeling.
 
 
 ### 🤝🏻 Get in touch
