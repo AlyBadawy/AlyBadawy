@@ -17,14 +17,18 @@ In the present day, I'm a dedicated member of Steampunk, Inc., a preeminent soft
 Beyond my ardor for software engineering, I delight in fashioning intricate low-voltage electronic circuits, coding for AVR microcontrollers, and even delving into the realm of 3D modeling.
 
 
+![logo-e9f16c9b 1](https://github.com/AlyBadawy/AlyBadawy/assets/1198568/471e5332-f8d0-4b78-a333-7e207780ecc1)
+
+
 ### 🤝🏻 Get in touch
+- Website: https://alybadawy.com
 - Twitter: https://twitter.com/alybadawy
 - LinkedIn: http://www.linkedin.com/in/aly-badawy
 
 
 ### 🛠 Tech Stack
 
-- 🌐 &nbsp; Ruby on Rails | React
-- 💻 &nbsp; Java | Python | C# | VB.net | Swift
-- 🛢 &nbsp; PostgresSQL | MySQL | MS-SQL server
-- 🔧 &nbsp; Git
+- 🌐 &nbsp; Ruby on Rails | React | Typescript | NodeJS
+- 💻 &nbsp; Java | Python | C# | VB.net | Swift | SwiftUI
+- 🛢 &nbsp; PostgresSQL | MySQL | MS-SQL server | Supabase
+- 🔧 &nbsp; Git | Zsh | bash
