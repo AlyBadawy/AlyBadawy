@@ -28,7 +28,8 @@ Beyond my ardor for software engineering, I delight in fashioning intricate low-
 
 ### 🛠 Tech Stack
 
-- 🌐 &nbsp; Ruby on Rails | React | Typescript | NodeJS
-- 💻 &nbsp; Java | Python | C# | VB.net | Swift | SwiftUI
+- 🌐 &nbsp; Ruby on Rails | NextJS | React | Typescript | NodeJS
+- ⚙️ &nbsp; C# | VB.net | Swift | SwiftUI| Java | Python 
 - 🛢 &nbsp; PostgresSQL | MySQL | MS-SQL server | Supabase
 - 🔧 &nbsp; Git | Zsh | bash
+- 🖥️ &nbsp; MacOS | Ubuntu | RedHat | Windows
