@@ -14,7 +14,7 @@ Between 2014 and 2018, I proudly co-founded Fourteen Inch LLC, a nimble software
 
 In the present day, I'm a dedicated member of Steampunk, Inc., a preeminent software development enterprise specializing in crafting solutions for the US government.
 
-Beyond my ardor for software engineering, I delight in designing embedded systems (ARM-based) and crafting intricate low-voltage electronic circuits. I also enjoy coding for AVR, ans STM32 microcontrollers, designing PCBs, and even delving into the realm of 3D modeling.
+Beyond my ardor for software engineering, I delight in designing embedded systems (ARM-based) and crafting intricate low-voltage electronic circuits. I also enjoy coding for AVR, and STM32 microcontrollers, designing PCBs, and even delving into the realm of 3D modeling.
 
 
 ![logo-e9f16c9b 1](https://github.com/AlyBadawy/AlyBadawy/assets/1198568/471e5332-f8d0-4b78-a333-7e207780ecc1)
@@ -28,8 +28,10 @@ Beyond my ardor for software engineering, I delight in designing embedded system
 
 ### 🛠 Tech Stack
 
-- 🌐 &nbsp; Ruby on Rails | NextJS | React | Typescript | NodeJS
-- ⚙️ &nbsp; C# | VB.net | Swift | SwiftUI| Java | Python 
+- 🌐 &nbsp; Ruby on Rails | NextJS | ReactJS | Typescript | NodeJS
+- ⚙️ &nbsp; C# | VB.net | Swift | SwiftUI | Java | Python | C | C++ | Electron
 - 🛢 &nbsp; PostgresSQL | MySQL | MS-SQL server | Supabase
 - 🔧 &nbsp; Git | Zsh | bash
 - 🖥️ &nbsp; MacOS | Ubuntu | RedHat | Windows
+- 📲  &nbsp; iOS development 
+
